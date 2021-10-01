@@ -7,4 +7,8 @@ A map marker moves along the bus route between MIT and Harvard. This is accompli
   1.  Load the HTML file into your browser.
   2.  Click the "Show stops between MIT and Harvard" button.
 
+### Roadmap of future improvements
+1.  Have map use both english and spanish to label streets and buildings.
+2.  Give a night view of map.
+
 
